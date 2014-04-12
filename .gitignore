@@ -16,3 +16,10 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+# Chef File and Folders
+.chef
+
+
+.vagrant
+.DS_Store
